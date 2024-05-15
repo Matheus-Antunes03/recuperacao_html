@@ -1,0 +1,44 @@
+#header {
+    display: flex;
+    width: 86%;
+    height: 270px;
+    background-color: blueviolet;
+    margin: 30px 0 0 120px;
+    border-radius: 30px;
+}
+
+.square{
+    width: 20%;
+    height: 190px;
+    background-color: aqua;
+    margin: 40px 0 0 65px;
+    border-radius: 20px;
+}
+
+#box{
+    display: flex;
+}
+
+#container_1{
+    width: 42%;
+    height: 560px;
+    background-color: blue;
+    border-radius: 30px;
+    margin: 50px 0 0 120px;
+}
+
+#container_2{
+    width: 42%;
+    height: 560px;
+    background-color: blue;
+    border-radius: 30px;
+    margin: 50px 0 0 30px;
+}
+
+.content{
+    width: 87%;
+    height: 230px;
+    background-color: black;
+    border-radius: 30px;
+    margin: 30px 0 0 50px;
+}

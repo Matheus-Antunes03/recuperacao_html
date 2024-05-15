@@ -1,0 +1,44 @@
+#header {
+    width: 94%;
+    height: 200px;
+    background-color: blueviolet;
+    margin: 50px 0 0 50px;
+    border-radius: 30px;
+}
+
+#container{
+    display: flex;
+}
+
+#sidebar{
+    width: 15%;
+    height: 600px;
+    background-color: blue;
+    margin: 50px 0 0 50px;
+    border-radius: 30px;
+}
+
+#content{
+    width: 76%;
+    height: 600px;
+    background-color: aqua;
+    display: flex;
+    margin: 50px 0 0 50px;
+    border-radius: 30px;
+}
+
+#square_1{
+    width: 44%;
+    height: 500px;
+    background-color: brown;
+    margin: 50px 0 0 50px;
+    border-radius: 30px;
+}
+
+#square_2{
+    width: 44%;
+    height: 500px;
+    background-color: bisque;
+    margin: 50px 0 0 50px;
+    border-radius: 30px;
+}

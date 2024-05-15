@@ -1,0 +1,40 @@
+#content_1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box_1{
+    width: 20%;
+    height: 250px;
+    background-color: blueviolet;
+    border-radius: 30px;
+    margin: 20px 0 0 20px;
+}
+
+.box_2{
+    width: 20%;
+    height: 250px;
+    background-color: blueviolet;
+    border-radius: 30px;
+    margin: 20px 20px 0 0;
+}
+
+#content_2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#middle{
+    width: 20%;
+    height: 250px;
+    background-color: blueviolet;
+    border-radius: 30px;
+    margin: 20px 20px 0 0;
+}
+
+#content_3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}

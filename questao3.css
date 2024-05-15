@@ -1,0 +1,19 @@
+#box{
+    display: flex;
+}
+
+.content_1{
+    width: 7%;
+    height: 850px;
+    background-color: blue;
+    margin: 50px 0 0 50px;
+    border-radius: 20px;
+}
+
+.content_2{
+    width: 17%;
+    height: 850px;
+    background-color: blueviolet;
+    margin: 50px 0 0 50px;
+    border-radius: 20px;
+}
